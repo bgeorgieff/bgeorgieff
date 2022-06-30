@@ -11,7 +11,7 @@
   <br/>
  🧑‍💼 I’m currently working as Frontend developer at <a href="https://www.endava.com/" target="_blank">ENDAVA</a>
   <br/>
-  But I also keep diving deep in JS backend technolgies
+  🤿 But I also keep diving deep in various JS libraries and frameworks. 🤿
 </p>
 <br/>
 <div align="center">
@@ -41,7 +41,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,azure,github,javascript,ts,wordpress,express,nodejs,styledcomponents,nextjs" /><br>
     <img src="https://skillicons.dev/icons?i=angular,bootstrap,mongodb,html,sass,css,react,redux,vscode,heroku,figma" />
-
   </a>
 </p>
 <br/>
