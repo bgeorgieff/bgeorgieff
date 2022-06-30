@@ -45,10 +45,10 @@
 <br/>
 <div align="center">
  <a href="https://github.com/denvercoder1/github-readme-streak-stats" target="_blank">
-  <img align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com?user=bgeorgieff&theme=tokyonight" alt="my stats" />
+  <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com?user=bgeorgieff&theme=tokyonight" alt="my stats" />
  </a>
  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=bgeorgieff&show_icons=true&theme=tokyonight" alt="general stats" />
+  <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=bgeorgieff&show_icons=true&theme=tokyonight" alt="general stats" />
  </a>
 </div>
 <br/>
