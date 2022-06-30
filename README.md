@@ -27,6 +27,10 @@
 </div>
 
 <div align="center">
+ <img src="https://komarev.com/ghpvc/?username=bgeeorgieffcolor=blueviolet" alt="profile views"/>
+</div
+
+<div align="center">
  <img alt="snake eating my contribution" src="https://github.com/bgeorgieff/bgeorgieff/blob/output/github-contribution-grid-snake.svg">
 </div>
 
