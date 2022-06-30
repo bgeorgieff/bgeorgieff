@@ -72,36 +72,31 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=bgeorgieff&theme=rogue" alt="my graph stats"/>
  </a>
 </div>
-<br/><hr/><br/>
+<br/><br/><hr/><br/>
 <div align="center">
  <a href="https://github.com/bgeorgieff/key-replacement" target="_blank">
-  <img align="left" width=455 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=key-replacement" alt="key-replacement"/>
+  <img align="left" width=455 height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=key-replacement" alt="key-replacement"/>
  </a>
  <a href="https://github.com/bgeorgieff/portfolio-template" target="_blank">
-  <img align="right" width=455 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=portfolio-template" alt="portfolio-template"/>
+  <img align="right" width=455 height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=portfolio-template" alt="portfolio-template"/>
  </a>
 </div>
+<br/><br/><br/><br/><br/><br/><br/><br/>
 <div align="center">
  <a href="https://github.com/bgeorgieff/Webber-task-manager" target="_blank">
-  <img align="left" width=455 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=Webber-task-manager" alt="Webber-task-manager"/>
+  <img align="left" width=455 height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=Webber-task-manager" alt="Webber-task-manager"/>
  </a>
  <a href="https://github.com/bgeorgieff/news-app" target="_blank">
-  <img align="right" width=455 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=news-app" alt="news-app"/>
+  <img align="right" width=455 height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=news-app" alt="news-app"/>
  </a>
 </div>
 <br/>
-<hr/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
 <hr/>
-<br/>
-<hr/>
-<br/>
 <div align="center">
   <a href="https://github.com/bgeorgieff?tab=repositories" title="Show all">🔎 Show all 🔍</a>
 </div>
