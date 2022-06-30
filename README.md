@@ -75,19 +75,19 @@
 <br/><br/><hr/><br/>
 <div align="center">
  <a href="https://github.com/bgeorgieff/key-replacement" target="_blank">
-  <img align="left" width=455 height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=key-replacement&theme=tokyonight" alt="key-replacement"/>
+  <img align="left" width=390 height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=key-replacement&theme=tokyonight" alt="key-replacement"/>
  </a>
  <a href="https://github.com/bgeorgieff/portfolio-template" target="_blank">
-  <img align="right" width=455 height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=portfolio-template&theme=tokyonight" alt="portfolio-template"/>
+  <img align="right" width=390 height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=portfolio-template&theme=tokyonight" alt="portfolio-template"/>
  </a>
 </div>
 <br/><br/><br/><br/><br/><br/><br/><br/>
 <div align="center">
  <a href="https://github.com/bgeorgieff/Webber-task-manager" target="_blank">
-  <img align="left" width=455 height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=Webber-task-manager&theme=tokyonight" alt="Webber-task-manager"/>
+  <img align="left" width=390 height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=Webber-task-manager&theme=tokyonight" alt="Webber-task-manager"/>
  </a>
  <a href="https://github.com/bgeorgieff/news-app" target="_blank">
-  <img align="right" width=455 height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=news-app&theme=tokyonight" alt="news-app"/>
+  <img align="right" width=390 height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=news-app&theme=tokyonight" alt="news-app"/>
  </a>
 </div>
 <br/>
