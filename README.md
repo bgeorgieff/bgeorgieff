@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
- <img width=120 height=25 src="https://komarev.com/ghpvc/?username=bgeorgieff&color=blueviolet&style=plastic" alt="profile views"/>
+ <img width=120 height=25 src="https://komarev.com/ghpvc/?username=bgeorgieff&color=blueviolet&style=flat" alt="profile views"/>
 </div
 
 <div align="center">
