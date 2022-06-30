@@ -74,18 +74,24 @@
 </div>
 <br/><hr/><br/>
 <div align="center">
- <a href="" target="_blank">
-  <img align="left" width=455 src="" alt=""/>
+ <a href="https://github.com/bgeorgieff/key-replacement" target="_blank">
+  <img align="left" width=455 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=key-replacement" alt="key-replacement"/>
  </a>
- <a href="" target="_blank">
-  <img align="right" width=455 src="" alt=""/>
+ <a href="https://github.com/bgeorgieff/portfolio-template" target="_blank">
+  <img align="right" width=455 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=portfolio-template" alt="portfolio-template"/>
  </a>
 </div>
 <div align="center">
- <a href="" target="_blank">
-  <img align="left" width=455 src="" alt=""/>
+ <a href="https://github.com/bgeorgieff/Webber-task-manager" target="_blank">
+  <img align="left" width=455 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=Webber-task-manager" alt="Webber-task-manager"/>
  </a>
- <a href="" target="_blank">
-  <img align="right" width=455 src="" alt=""/>
+ <a href="https://github.com/bgeorgieff/news-app" target="_blank">
+  <img align="right" width=455 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=news-app" alt="news-app"/>
  </a>
+</div>
+<br/>
+<hr/>
+<br/>
+<div align="center">
+  <a href="https://github.com/bgeorgieff?tab=repositories" title="Show all">🔎 Show all 🔍</a>
 </div>
