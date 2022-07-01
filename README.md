@@ -39,8 +39,8 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,azure,github,javascript,ts,wordpress,express,nodejs,nestjs,styledcomponents,nextjs" /><br>
-    <img src="https://skillicons.dev/icons?i=angular,bootstrap,mongodb,html,sass,css,react,redux,vscode,heroku,figma," />
+    <img src="https://skillicons.dev/icons?i=git,azure,github,javascript,ts,wordpress,mongodb,express,nodejs,nestjs" /><br>
+    <img src="https://skillicons.dev/icons?i=angular,bootstrap,html,sass,css,react,redux,styledcomponents,nextjs,vscode,heroku,figma" />
   </a>
 </p>
 <br/>
