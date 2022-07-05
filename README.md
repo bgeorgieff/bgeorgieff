@@ -77,10 +77,10 @@
 </div>
 <br/><br/><hr/><br/>
 <div align="center">
- <a href="https://github.com/bgeorgieff/key-replacement" target="_blank">
+ <a href="https://github.com/tmollov/library-api-nest" target="_blank">
   <img align="left" width=390 height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=tmollov&repo=library-api-nest&theme=tokyonight" alt="nest-js-backend"/>
  </a>
- <a href="https://github.com/bgeorgieff/portfolio-template" target="_blank">
+ <a href="https://github.com/bgeorgieff/library-app" target="_blank">
   <img align="right" width=390 height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=library-app&theme=tokyonight" alt="library-app"/>
  </a>
 </div>
