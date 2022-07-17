@@ -78,7 +78,7 @@
 <br/><br/><hr/><br/>
 <div align="center">
  <a href="https://github.com/tmollov/library-api-nest" target="_blank">
-  <img align="left" width=390 height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=gallery-api&theme=tokyonight" alt="nest-js-backend"/>
+  <img align="left" width=390 height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=gallery-api-nestjs&theme=tokyonight" alt="nest-js-backend"/>
  </a>
  <a href="https://github.com/bgeorgieff/library-app" target="_blank">
   <img align="right" width=390 height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=gallery-app&theme=tokyonight" alt="library-app"/>
