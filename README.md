@@ -86,7 +86,7 @@
 </div>
 <br/><br/><br/><br/><br/><br/><br/><br/>
 <div align="center">
- <a href="https://github.com/bgeorgieff/library-api-nestjs" target="_blank">
+ <a href="https://github.com/bgeorgieff/library-app-v2" target="_blank">
   <img align="left" width=390 height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=library-app-v2&theme=tokyonight" alt="library-app-v2"/>
  </a>
  <a href="https://github.com/bgeorgieff/library-api-nestjs" target="_blank">
