@@ -77,29 +77,29 @@
 </div>
 <br/><br/><hr/><br/>
 <div align="center">
- <a href="https://github.com/tmollov/library-api-nest" target="_blank">
-  <img align="left" width=390 height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=gallery-api-nestjs&theme=tokyonight" alt="nest-js-backend"/>
+ <a href="https://github.com/bgeorgieff/gallery-app" target="_blank">
+  <img align="left" width=390 height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=gallery-app&theme=tokyonight" alt="gallery app"/>
  </a>
- <a href="https://github.com/bgeorgieff/library-app" target="_blank">
-  <img align="right" width=390 height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=gallery-app&theme=tokyonight" alt="library-app"/>
+ <a href="https://github.com/bgeorgieff/gallery-api-nestjs" target="_blank">
+  <img align="right" width=390 height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=gallery-api-nestjs&theme=tokyonight" alt="gallery api with nest js"/>
+ </a>
+</div>
+<br/><br/><br/><br/><br/><br/><br/><br/>
+<div align="center">
+ <a href="https://github.com/bgeorgieff/library-api-nestjs" target="_blank">
+  <img align="left" width=390 height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=library-app-v2&theme=tokyonight" alt="library-app-v2"/>
+ </a>
+ <a href="https://github.com/bgeorgieff/library-api-nestjs" target="_blank">
+  <img align="right" width=390 height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=library-api-nestjs&theme=tokyonight" alt="library app nestjs"/>
  </a>
 </div>
 <br/><br/><br/><br/><br/><br/><br/><br/>
 <div align="center">
  <a href="https://github.com/bgeorgieff/key-replacement" target="_blank">
-  <img align="left" width=390 height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=key-replacement&theme=tokyonight" alt="key-replacement"/>
+  <img align="left" width=390 height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=key-replacement&theme=tokyonight" alt="Webber-task-manager"/>
  </a>
  <a href="https://github.com/bgeorgieff/portfolio-template" target="_blank">
-  <img align="right" width=390 height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=portfolio-template&theme=tokyonight" alt="portfolio-template"/>
- </a>
-</div>
-<br/><br/><br/><br/><br/><br/><br/><br/>
-<div align="center">
- <a href="https://github.com/bgeorgieff/Webber-task-manager" target="_blank">
-  <img align="left" width=390 height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=Webber-task-manager&theme=tokyonight" alt="Webber-task-manager"/>
- </a>
- <a href="https://github.com/bgeorgieff/news-app" target="_blank">
-  <img align="right" width=390 height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=news-app&theme=tokyonight" alt="news-app"/>
+  <img align="right" width=390 height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=portfolio-template&theme=tokyonight" alt="news-app"/>
  </a>
 </div>
 <br/>
