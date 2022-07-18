@@ -54,16 +54,7 @@
   <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=bgeorgieff&show_icons=true&theme=tokyonight" alt="general stats" />
  </a>
 </div>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<hr/>
-<br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><hr/><br/>
 <div align="center">
  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgeorgieff&show_icons=true&theme=tokyonight" alt="my top languages" />
@@ -86,28 +77,14 @@
 </div>
 <br/><br/><br/><br/><br/><br/><br/><br/>
 <div align="center">
- <a href="https://github.com/bgeorgieff/library-app-v2" target="_blank">
-  <img align="left" width=390 height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=library-app-v2&theme=tokyonight" alt="library-app-v2"/>
- </a>
  <a href="https://github.com/bgeorgieff/library-api-nestjs" target="_blank">
-  <img align="right" width=390 height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=library-api-nestjs&theme=tokyonight" alt="library app nestjs"/>
+  <img align="left" width=390 height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=library-api-nestjs&theme=tokyonight" alt="library app nestjs"/>
+ </a>
+  <a href="https://github.com/bgeorgieff/key-replacement" target="_blank">
+  <img align="right" width=390 height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=key-replacement&theme=tokyonight" alt="library-app-nestjs"/>
  </a>
 </div>
-<br/><br/><br/><br/><br/><br/><br/><br/>
-<div align="center">
- <a href="https://github.com/bgeorgieff/key-replacement" target="_blank">
-  <img align="left" width=390 height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=key-replacement&theme=tokyonight" alt="Webber-task-manager"/>
- </a>
- <a href="https://github.com/bgeorgieff/portfolio-template" target="_blank">
-  <img align="right" width=390 height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=bgeorgieff&repo=portfolio-template&theme=tokyonight" alt="news-app"/>
- </a>
-</div>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<br/><br/><br/><br/><br/><br/>
 <hr/>
 <div align="center">
   <a href="https://github.com/bgeorgieff?tab=repositories" title="Show all">🔎 Show all 🔍</a>
