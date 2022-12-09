@@ -62,7 +62,7 @@
 <br/><hr/><br/>
 <div align="center">
  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" target="_blank">
-  <img src="https://activity-graph.herokuapp.com/graph?username=bgeorgieff&theme=rogue" alt="my graph stats"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bgeorgieff&theme=rogue" alt="my graph stats"/>
  </a>
 </div>
 <br/><br/><hr/><br/>
