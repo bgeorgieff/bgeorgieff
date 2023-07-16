@@ -8,8 +8,6 @@
 <p align="center">
   🔥Creating and developing are my driving force!🔥
   <br/>
- 🧑‍💼 I’m currently working as Frontend developer at <a href="https://www.endava.com/" target="_blank">ENDAVA</a>
-  <br/>
   🤿 But I also keep diving deep in various JS libraries and frameworks. 🤿
 </p>
 <br/>
