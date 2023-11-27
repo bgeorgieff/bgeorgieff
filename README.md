@@ -4,7 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Railway&size=30&color=00F73A&center=true&vCenter=true&width=600&lines=Hello+there!;This+is+Blagovest+Georgiev!;&center=true&size=25" />
   </a>
 </h1>
-
+<p>I'm a Front-end developer working mainly on Angular projects as well as Wordpress Front-end features.<br/>
+In my personal projects I've mainly worked with React, NestJS/Express and NodeJS.</p>
 <br/>
 <div align="center">
  <p>Reach me out!</p>
