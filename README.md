@@ -10,11 +10,6 @@
  <p>Reach me out!</p>
 </div>
 <div align="center">
- <a href="https://www.linkedin.com/in/blagovest-georgiev-228b43122/" target="_blank" style="text-decoration: none !important;">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
- </a>
- <a href="mailto:bgeorgieff87@gmail.com" target="_blank" style="text-decoration: none !important;">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
- </a>
+ <a href="https://www.linkedin.com/in/blagovest-georgiev-228b43122/" target="_blank" style="text-decoration: none !important;"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> <a href="mailto:bgeorgieff87@gmail.com" target="_blank" style="text-decoration: none !important;"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
